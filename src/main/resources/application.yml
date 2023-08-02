@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: groovyspring
+
+management:
+  endpoint:
+    scheduledtasks:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: '*'

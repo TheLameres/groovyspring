@@ -1,0 +1,4 @@
+moduleName=groovy-datetime-dsl
+moduleVersion=4.0.13
+extensionClasses=com.example.groovyspring.infrastructure.extenstions.DurationExtension
+#staticExtensionClasses=org.apache.groovy.datetime.extensions.DateTimeStaticExtensions
